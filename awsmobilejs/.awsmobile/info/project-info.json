@@ -1,0 +1,19 @@
+{
+	"ProjectName": "AWSLeaf",
+	"ProjectPath": "C:\\Users\\eleme\\Desktop\\AWSLeaf",
+	"InitializationTime": "2019-08-19-12-52-45",
+	"LastConfigurationTime": "2019-08-19-12-48-49",
+	"LastNPMInstallTime": "",
+	"FrontendLastBuildTime": "",
+	"LastPublishTime": "",
+	"BackendLastSyncTime": "2019-08-19-12-50-39",
+	"BackendLastBuildTime": "",
+	"BackendLastPushTime": "",
+	"BackendProjectID": "0f617b4f-466c-4be9-bc97-b1c06a43bf6e",
+	"BackendProjectName": "AWSLeaf",
+	"BackendProjectConsoleUrl": "https://console.aws.amazon.com/mobilehub/home#/0f617b4f-466c-4be9-bc97-b1c06a43bf6e/build",
+	"BackendProjectCreationTime": "2019-08-19T16:50:32.376Z",
+	"BackendProjectLastUpdatedTime": "2019-08-19T16:50:35.958Z",
+	"Framework": "react-native",
+	"BackendLastSyncToDevTime": "2019-08-19-12-50-39"
+}
