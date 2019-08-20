@@ -1,0 +1,8 @@
+const awsConfig = {
+    identityPoolId: 'us-east-1:c90bb418-7e7c-45a0-98fa-5dbf7532b7a5 ',
+    region: 'us-east-1',
+    userPoolId: 'us-east-1_T9tdVoav8',
+    userPoolWebClientId: '5offdll90g4efoesd53r1gvvv0'
+  }
+  
+  export default awsConfig;

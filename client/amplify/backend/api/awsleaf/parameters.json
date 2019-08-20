@@ -1,0 +1,11 @@
+{
+    "AppSyncApiName": "awsleaf",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": "false",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authawsleaf174c2e30",
+            "Outputs.UserPoolId"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "client": {
+        "awscloudformation": {
+            "AuthRoleName": "awsleaf-client-20190820192317-authRole",
+            "UnauthRoleArn": "arn:aws:iam::364376261799:role/awsleaf-client-20190820192317-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::364376261799:role/awsleaf-client-20190820192317-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "awsleaf-client-20190820192317-deployment",
+            "UnauthRoleName": "awsleaf-client-20190820192317-unauthRole",
+            "StackName": "awsleaf-client-20190820192317",
+            "StackId": "arn:aws:cloudformation:us-east-1:364376261799:stack/awsleaf-client-20190820192317/7e331a20-c3a1-11e9-98f7-12c9298e4208"
+        },
+        "categories": {
+            "auth": {
+                "awsleaf174c2e30": {}
+            }
+        }
+    }
+}
